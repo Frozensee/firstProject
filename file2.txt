@@ -1,5 +1,0 @@
-First line of file
-Second line of file
-Third line
-Fourt line
-Fifth line
