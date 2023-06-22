@@ -1,10 +1,2 @@
 
-
-This is a try out for some features. 
-First line of branch file
-Second line of branch file
-<<<<<<< Updated upstream
-Lets see the second time.
-=======
-Done!
->>>>>>> Stashed changes
+This is a new content of a branch file :)
